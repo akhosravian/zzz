@@ -1,0 +1,6 @@
+date,amount,source,credit,description
+1/1/18,50000,A,down payment
+1/12/18,5000,C,down payment
+1/16/2018,30000,C, down payment gift
+1/17/2018,-45000,P,earnest
+1/17/2018,-20,P,wire fee
